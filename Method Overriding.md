@@ -15,6 +15,11 @@ To write a Python program that demonstrates class inheritance by creating a pare
 
 ## 💻 PROGRAM:
 
+<img width="416" height="426" alt="image" src="https://github.com/user-attachments/assets/bf5ff309-8640-429f-a088-ba0566ac4fa0" />
+
 ## OUTPUT
 
+<img width="597" height="247" alt="image" src="https://github.com/user-attachments/assets/0aae45cf-92be-4d1c-b047-5644b4553f96" />
+
 ## RESULT
+Thus,the program is executed successfully.
