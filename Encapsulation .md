@@ -24,6 +24,11 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 
 ## 💻 Program
 
+<img width="596" height="320" alt="image" src="https://github.com/user-attachments/assets/04e54707-8505-4e16-9f33-ad4ac8f4614d" />
+
 ## Output
 
+<img width="477" height="210" alt="image" src="https://github.com/user-attachments/assets/c8657560-c068-471f-82b6-7abe7e43a6a0" />
+
 ## Result
+Thus, the program is executed successfully.
